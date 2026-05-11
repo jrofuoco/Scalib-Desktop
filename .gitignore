@@ -42,3 +42,18 @@ build/
 .env
 .env.*
 !.env.example
+
+# IntelliJ full folder
+.idea/
+
+# Java output folders
+out/
+
+# Custom generated executables
+exe-output/
+
+# SQLite database
+*.db
+
+# Logs
+*.log
