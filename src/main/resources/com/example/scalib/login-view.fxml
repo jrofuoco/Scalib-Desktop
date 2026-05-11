@@ -12,7 +12,7 @@
                 <padding>
                     <Insets bottom="60.0" left="46.0" right="46.0" top="60.0" />
                 </padding>
-                <Label styleClass="logo-label" text="SCALIB" />
+                <Label styleClass="logo-label" text="SCILAB" />
                 <Label styleClass="branding-title" text="Welcome back" />
                 <Label styleClass="branding-subtitle" text="Manage records, approvals and inventory." wrapText="true" />
 
